@@ -1,1 +1,17 @@
-/* No CSS *//*# sourceMappingURL=style1.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
+*,
+html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-size: 15px;
+  font-family: "Lexend Deca", sans-serif;
+}
+
+h4 {
+  color: #1b1938;
+}
+/*# sourceMappingURL=style1.css.map */
